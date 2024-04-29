@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_01 Modelando o ScreenMatch/Desafios/Desafios.iml" filepath="$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_01 Modelando o ScreenMatch/Desafios/Desafios.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ONE - Oracle Next Education.iml" filepath="$PROJECT_DIR$/.idea/ONE - Oracle Next Education.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_01 Modelando o ScreenMatch/_01 Modelando o ScreenMatch.iml" filepath="$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_01 Modelando o ScreenMatch/_01 Modelando o ScreenMatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_08-Java-AplicandoAOrientacaoAObjetos.iml" filepath="$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_08-Java-AplicandoAOrientacaoAObjetos.iml" />
     </modules>
   </component>
 </project>
