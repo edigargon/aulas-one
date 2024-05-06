@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_04 Aplicando Comportamentos em Comum/Desafio04/Desafio04.iml" filepath="$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_04 Aplicando Comportamentos em Comum/Desafio04/Desafio04.iml" />
       <module fileurl="file://$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_01 Modelando o ScreenMatch/Desafios/Desafios.iml" filepath="$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_01 Modelando o ScreenMatch/Desafios/Desafios.iml" />
       <module fileurl="file://$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_02 Controlando o Acesso e a Escrita nos Dados da Aplicacao/Desafios02/Desafios02.iml" filepath="$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_02 Controlando o Acesso e a Escrita nos Dados da Aplicacao/Desafios02/Desafios02.iml" />
       <module fileurl="file://$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_03 Reaproveitando Caracteristicas e Comportamenrtos/Desafios03/Desafios03.iml" filepath="$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_03 Reaproveitando Caracteristicas e Comportamenrtos/Desafios03/Desafios03.iml" />
@@ -9,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_01 Modelando o ScreenMatch/_01 Modelando o ScreenMatch.iml" filepath="$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_01 Modelando o ScreenMatch/_01 Modelando o ScreenMatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_02 Controlando o Acesso e a Escrita nos Dados da Aplicacao/_02 Controlando o Acesso e a Escrita nos Dados da Aplicacao.iml" filepath="$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_02 Controlando o Acesso e a Escrita nos Dados da Aplicacao/_02 Controlando o Acesso e a Escrita nos Dados da Aplicacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_03 Reaproveitando Caracteristicas e Comportamenrtos/_03 Reaproveitando Caracteristicas e Comportamenrtos.iml" filepath="$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_03 Reaproveitando Caracteristicas e Comportamenrtos/_03 Reaproveitando Caracteristicas e Comportamenrtos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_04 Aplicando Comportamentos em Comum/_04 Aplicando Comportamentos em Comum.iml" filepath="$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_04 Aplicando Comportamentos em Comum/_04 Aplicando Comportamentos em Comum.iml" />
       <module fileurl="file://$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_08-Java-AplicandoAOrientacaoAObjetos.iml" filepath="$PROJECT_DIR$/_08-Java-AplicandoAOrientacaoAObjetos/_08-Java-AplicandoAOrientacaoAObjetos.iml" />
     </modules>
   </component>
